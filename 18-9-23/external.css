@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+*{
+    color: darkmagenta;
+}
+#book{
+    font-size: xx-large;
+
+}
+.stud{
+    background-color: rgb(226, 43, 43);
+}
+h1,p,#book{
+ font-style: oblique;
+}
